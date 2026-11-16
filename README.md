@@ -10,8 +10,5 @@ From this exercise, I have learnt how password cracking is done through johnny a
 - [Password Cracker](https://networkwalks.com/password-cracker/)
 
 ## Task Demonstration
-### Johnny
-[John the ripper demo](https://youtu.be/MHheiz7NHEE)
-
-### Networks walks tool
-[Network walks Demo](https://youtu.be/_Z4cM-OUaeY)
+### [John the ripper demo](https://youtu.be/MHheiz7NHEE)
+### [Network walks Demo](https://youtu.be/_Z4cM-OUaeY)
