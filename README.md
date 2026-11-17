@@ -1,7 +1,7 @@
 # NETWORKWALKS-WK3-B084-CRACKING-PASSWORD-WITH-JTR---NWTOOLS
 ## Task Overview
-This week's task is to crack passwords of these pdf files. Three files using John and the other, using cracking tools from networkwalks.
-From this exercise, I have learnt the basis of password cracking. 
+This week's task is to crack passwords of these pdf files. Three files using John and the other using cracking tools from networkwalks.
+From this exercise, I have learnt the basis of password cracking. It also helped me understand how password cracking is done. There are several ways to do cracking. For this, I did Password Hash Cracking.
 
 ## Tools Used:
 - John the ripper
@@ -9,6 +9,6 @@ From this exercise, I have learnt the basis of password cracking.
 - [Hash Calculator](https://networkwalks.com/hash-calculator/)
 - [Password Cracker](https://networkwalks.com/password-cracker/)
 
-## Task Demonstration
+## Demonstration
 ### [John the ripper demo](https://youtu.be/MHheiz7NHEE)
 ### [Network walks Demo](https://youtu.be/_Z4cM-OUaeY)
